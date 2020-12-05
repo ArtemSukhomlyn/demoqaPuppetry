@@ -18,6 +18,19 @@
 | |Frames | - |
 | |Nested Frames | - |
 | |Modal Dialogs | - |
+|Widgets|Accordian | - |
+| |Auto Complete | - |
+| |Date Picker|+ |
+| |Auto Complete | - |
+| |Slider | - |
+| |Progress Bar | - |
+| |Tabs | - |
+| |Tool Tips | - |
+| |Menu | - |
+| |Select Menu | - |
+
+
+
 
 
 
