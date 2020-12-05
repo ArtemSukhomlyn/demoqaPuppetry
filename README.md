@@ -2,4 +2,5 @@
 
 | Section | Element | Automated  |
 | :-----: | :-: | :-: |
-| Seconds | 301 | 283 |
+| Elements|Text Box | + |
+|         |Check Box | + |
