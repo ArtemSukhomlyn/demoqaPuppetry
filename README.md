@@ -1,5 +1,5 @@
 # demoqaPuppetry
 
-| Attempt | #1  | #2  |
+| Section | Element | Automated  |
 | :-----: | :-: | :-: |
 | Seconds | 301 | 283 |
